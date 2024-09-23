@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,brew.sh
