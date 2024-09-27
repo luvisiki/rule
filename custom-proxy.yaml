@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,x.com
