@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,chiphell.com
+  - DOMAIN-SUFFIX,themoviedb.org
