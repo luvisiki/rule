@@ -2,7 +2,6 @@ payload:
   - DOMAIN-SUFFIX,kox.moe
   - DOMAIN-SUFFIX,miobt.com
   - DOMAIN-SUFFIX,bangumi.moe
-  - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,brew.sh
@@ -12,3 +11,8 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,nyaa.si
+  # plex的相关代理配置
+  - DOMAIN,downloads.plex.tv
+  - DOMAIN,metadata-static.plex.tv
+  - DOMAIN,metadata.provider.plex.tv
+  - DOMAIN,meta.plex.tv
