@@ -4,3 +4,7 @@ payload:
  - DOMAIN-SUFFIX,dyndns.org
  - DOMAIN-SUFFIX,asustor.com
  - DOMAIN-SUFFIX,changeip.com
+ # plex走直连设置
+ - DOMAIN,v4.plex.tv
+ - DOMAIN-SUFFIX,amazonaws.com
+ - DOMAIN-SUFFIX,plex.direct
