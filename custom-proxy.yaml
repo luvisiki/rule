@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,nyaa.si
   # plex的相关代理配置
+  - DOMAIN-SUFFIX,plex.tv
   - DOMAIN,downloads.plex.tv
   - DOMAIN,metadata-static.plex.tv
   - DOMAIN,metadata.provider.plex.tv
