@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,nyaa.si
   # plex的相关代理配置
-  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,plex.tv # 发现plex.tv底下还有很多的顶级域名，所以只要将需要走直连的写在另外的custom-direct.yaml当中，优先级高于本规则即可。
   - DOMAIN,downloads.plex.tv
   - DOMAIN,metadata-static.plex.tv
   - DOMAIN,metadata.provider.plex.tv
