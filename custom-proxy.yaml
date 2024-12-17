@@ -16,3 +16,4 @@ payload:
   - DOMAIN,metadata-static.plex.tv
   - DOMAIN,metadata.provider.plex.tv
   - DOMAIN,meta.plex.tv
+  - DOMAIN,pubsub.plex.tv
