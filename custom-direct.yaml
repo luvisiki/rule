@@ -9,4 +9,4 @@ payload:
  - DOMAIN-SUFFIX,amazonaws.com
  - DOMAIN-SUFFIX,plex.direct
  # ts语音服务器设置
- - DOMAIN,ts1.luvisiki.top
+ # - DOMAIN,ts1.luvisiki.top
