@@ -10,3 +10,8 @@ payload:
  - DOMAIN-SUFFIX,plex.direct
  # ts语音服务器设置
  # - DOMAIN,ts1.luvisiki.top
+ # steam游戏下载防止走代理
+ - GEOSITE,category-games@cn
+ - DOMAIN-SUFFIX,steamserver.net
+ - DOMAIN-SUFFIX,cm.steampowered.com
+ - IP-ASN,32590
