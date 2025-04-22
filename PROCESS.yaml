@@ -1,1 +1,2 @@
-- PROCESS-NAME,Speedtest.exe
+payload:
+  - PROCESS-NAME,Speedtest.exe
