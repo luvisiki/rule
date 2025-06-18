@@ -14,6 +14,7 @@ payload:
  - GEOSITE,category-games@cn
  - DOMAIN-SUFFIX,steamserver.net
  - DOMAIN-SUFFIX,cm.steampowered.com
+ - DOMAIN,steamcdn-a.akamaihd.net
  - IP-ASN,32590
  - DOMAIN-SUFFIX,battlebreakers.com
  - DOMAIN-SUFFIX,eac-cdn.com
