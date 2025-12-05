@@ -31,3 +31,5 @@ payload:
  - DOMAIN-SUFFIX,spyjinx.com
  - DOMAIN-SUFFIX,unrealengine.com
  - DOMAIN-SUFFIX,unrealtournament.com
+ # istation
+ - DOMAIN-SUFFIX,imagetasks.com
